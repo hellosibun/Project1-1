@@ -1,4 +1,5 @@
 /* This program will show demo on a simple calculator */
+/*this is just to check fork*/
 import java.util.Scanner;
 
  public class calculator
